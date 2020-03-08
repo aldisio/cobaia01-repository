@@ -28,5 +28,5 @@ Fizxing bug2!!
 # subsection 9
 Editing from branch develop
 
-# subsection 10
+# SUBSECTION 10
 Editing from branch develop to merge into master branch
