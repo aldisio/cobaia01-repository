@@ -24,3 +24,6 @@ This is my two cents (Aldisio)
 
 # subsection 8
 Fizxing bug2!!
+
+# subsection 9
+Editing from branch develop
